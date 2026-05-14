@@ -1,4 +1,4 @@
-# StockPulse — Stock Market Analysis + ML Prediction
+# StockPulse — Multi-Asset Financial Analytics & Forecasting Platform
 
 A full-stack stock market analysis platform with ML-powered price prediction. Supports **US Stocks, Indian NSE/BSE, Forex, and Crypto** — all powered by free Yahoo Finance data.
 
